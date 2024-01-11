@@ -1,7 +1,7 @@
 {
     "_manifest": {
-        "name": "Ljrano Express (Essential)",
-        "id": "Ljrano.Express",
+        "name": "PhunkedUP",
+        "id": "PhunkedUP.Express",
         "version": 1,
         "classPath": "essential.ExpressProviderPackage",
         "permaUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/express.json"
